@@ -6,5 +6,9 @@
 
 > The interface was created with the help of the ttkbootstrap 
 
+#### How it works
+>
+
+
 ## Result
 ![before](https://user-images.githubusercontent.com/72349836/220160506-69386c50-841a-487c-8891-a8f9c26710ff.png)
